@@ -107,7 +107,7 @@
     "react-swipeable": "^6.2.0"
   },
   "dependencies": {
-    "@tailwindcss/line-clamp": "^0.3.0",
+    "@tailwindcss/line-clamp": "^0.4.4",
     "@tippyjs/react": "^4.2.5",
     "amplitude-js": "^8.9.1",
     "balloon-css": "^1.2.0",
