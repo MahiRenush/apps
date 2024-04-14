@@ -23,7 +23,7 @@
     "classnames": "^2.3.1",
     "date-fns": "^2.25.0",
     "date-fns-tz": "1.0.0",
-    "dompurify": "^2.3.3",
+    "dompurify": "^2.4.9",
     "focus-visible": "^5.2.0",
     "graphql": "^15.7.2",
     "graphql-request": "^3.6.1",
